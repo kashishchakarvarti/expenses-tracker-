@@ -1,0 +1,41 @@
+{
+  "name": "ng2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhamqweasd/ng2ExpenseTracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhamqweasd/ng2ExpenseTracker/issues"
+  },
+  "homepage": "https://github.com/shubhamqweasd/ng2ExpenseTracker#readme",
+  "dependencies": {
+    
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.2",
+    "bootstrap": "^3.3.6",
+    "cookie-parser": "^1.4.3",
+    "core-js": "^2.4.1",
+    "cors": "^2.7.1",
+    "css-loader": "^0.12.0",
+    "express": "^4.14.0",
+    "express-session": "^1.14.0",
+    "file-loader": "^0.8.1",
+    "method-override": "^2.3.6",
+    "mongoose": "^4.5.7",
+    "morgan": "^1.7.0",
+    "ng2-pagination": "^0.4.1",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "path": "^0.11.14",
+    "webpack": "^1.13.2",
+    "zone.js": "^0.6.23"
+  }
+}
